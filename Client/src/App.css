@@ -1,0 +1,17 @@
+.App {
+   text-align: center;
+}
+*{
+  font-family: 'Raleway', sans-serif;
+}
+a{
+  font-size: 25px;
+  text-decoration: none;
+  padding: 20px;
+  font-family: 'Raleway', sans-serif;
+  color:rgb(146, 61, 62);
+  font-weight: bold;
+}
+a:hover{
+  color:rgb(15, 15, 15);
+}

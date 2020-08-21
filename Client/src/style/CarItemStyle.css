@@ -1,0 +1,20 @@
+.carItem {
+    background-color: rgb(209, 208, 208); 
+    float: left;
+    margin: 45px;
+}
+.itemDetails li{
+    list-style-type: none;
+   font-size: 20px;
+}
+.MuiGridList-root{
+    float: left;
+    padding: 50px !important;
+    display: flex;
+}
+.MuiTypography-body2 {
+    font-size: 20px !important;
+}
+.makeStyles-avatar-3{
+    background-color: rgb(7, 7, 7) !important;
+}

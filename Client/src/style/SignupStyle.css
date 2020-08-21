@@ -1,0 +1,61 @@
+.signupContainer h2{
+    color: rgb(16, 35, 61);
+    font-size: 30px;
+}
+.imgContainer {
+    width: 60%;
+    height: 20vh;
+    position: relative;
+    bottom: 400px
+}
+#carFrontImg{
+    width: 30%;
+    height: 30vh;
+}
+#carWheel3Img{
+    width: 40%;
+    height: 30vh;
+    margin: 10px;
+}
+#carWheelImg{
+    width: 40%;
+    height: 30vh;
+    margin: 10px;
+}
+.signupContainer{
+    background-color: rgb(190, 200, 200);
+    width: 20%;
+    height: 55vh;
+    position: relative;
+    left: 65%;
+    top: 150px;
+    margin: 20px;
+    margin-bottom: 10px;
+    color: rgb(146, 61, 62);
+    font-size: 20px;
+}
+.signupContainer button{
+    font-size: 20px;
+}
+.signupContainer input{
+    padding: 6px;
+    margin: 10px;
+    position: relative;
+    font-size: 20px;
+}
+.mainContainer  {
+    height: 15vh;
+    background-color: rgb(56, 54, 54);
+    margin-top: 0;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.mainContainer h1{
+    color: white;
+    margin-top: 0;
+}
+.signupContainer p{
+    color: rgb(146, 61, 62);    font-weight: bold;
+    font-size: 20px;
+}
